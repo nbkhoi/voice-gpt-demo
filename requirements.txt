@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+openai
+numpy<2.0.0
+simpleaudio
+soundfile
+python-dotenv
